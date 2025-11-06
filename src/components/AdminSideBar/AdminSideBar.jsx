@@ -17,7 +17,7 @@ export function AdminSideBar() {
     
   }
   return (
-    <div className="h-screen w-[240px] border-r bg-gray-50 flex flex-col justify-between">
+    <div className="h-screen w-[240px] border-r bg-gray-50 flex flex-col justify-between customclass">
       {/* Header */}
       <div>
         <div className="p-5">
