@@ -8,7 +8,7 @@ function AdminNav() {
         </h2>
 
         {/* Right Side — User Info */}
-        <div className="flex items-center space-x-3 gap-1">
+        <div className="flex items-center space-x-3 gap-1 customclass">
           <img
             src="https://ui-avatars.com/api/?name=Arevik&background=4F46E5&color=fff"
             alt="User avatar"
