@@ -1,0 +1,106 @@
+
+{
+"navmenu":{
+    "home":"Home",
+    "menu":"Menu",
+    "online":"Online Order",
+    "contact":"Contact"
+},
+"navbar":{
+    "login":"Login"
+},
+ "header": {
+    "subtitle": "— CHOCOLATE BOUTIQUE —",
+    "title_line1": "Chocolate",
+    "title_line2": "Soul",
+    "order_online": "ORDER ONLINE"
+  },
+    "historySection": {
+    "title": "My Story",
+    "name": "My name is Marina Krasovskaya",
+    "paragraph1": "This is text. Click once and select 'Edit Text' or double-click to add your own text and customize the font. You can move it anywhere on the page. Tell visitors about yourself. Here will be a good place to write about your company and services. Use this opportunity to present yourself and your company advantageously to clients. Tell an interesting story, for example, how the idea of your own business came to you.",
+    "paragraph2": "Provide engaging facts, numbers and don’t forget the keywords by which your site will be found in search engines. To add your own photo, click on the image and select 'Replace Photo'.",
+    "alt": "Marina Krasovskaya"
+  },
+  "eventSection": {
+    "title": "Catering & Events",
+    "subtitle": "THE SWEETEST MOMENTS OF LIFE",
+    "text": "Here will be a good place to write about your company and services. Use this opportunity to present yourself and your company advantageously to clients. Tell an interesting story, for example, how the idea of your own business came to you, and explain your advantages over competitors.",
+    "button": "VIEW MENU"
+  },
+   "quoteSection": {
+    "quote": "Who could be a better friend? Only a friend with chocolate",
+    "author": "— Linda Grayson —"
+  },
+  "contactPage": {
+    "title": "Contact Me",
+    "info": "INFO@MYSITE.RU / PHONE: +7 (495) 000-00-00",
+    "subtitle": "Write to me, I will gladly answer any of your questions. Just fill out the form:",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Add your message...",
+    "submit": "Send",
+    "footer": "©2035 Chocolatier. Site created on ",
+    "footer_link": "Wix.com"
+  },
+  "onlineSection": {
+    "title": "Online Orders",
+    "description": "You can place your order online! Browse our menu and choose what you would like to order.",
+    "status": "Accepting orders",
+    "pickup": "Pickup",
+    "delivery": "Delivery",
+    "pickupTime": "Pickup Time:",
+    "pickupTimeValue": "Up to 30 min.",
+    "change": "Change",
+    "pickupAddress": "Pickup Address:",
+    "addressValue": "1a Arbat Street, Moscow, 119019",
+    "categories": ["Truffles", "Desserts"]
+  },
+   "productPage": {
+    "menuTitle": "MENU",
+    "trufels": {
+      "title": "Truffles",
+      "description": "This is the first section of the menu, describe it here."
+    },
+    "desserts": {
+      "title": "Desserts",
+      "description": "This is the second section of the menu, describe it here."
+    },
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "cart": {
+    "title": "Cart",
+    "items": "(items)",
+    "addPromo": "Add promo code",
+    "total": "Estimated total",
+    "note": "Taxes and delivery calculated at checkout.",
+    "checkout": "Checkout",
+    "viewCart": "View Cart",
+    "secureOrder": "🛡 Secure order"
+  },
+   "modal": {
+    "title": "How would you like to receive your order?",
+    "pickup": "Pickup",
+    "delivery": "Delivery",
+    "pickupAddress": "Pickup address:",
+    "addressValue": "1a Arbat Street, Moscow, Russia",
+    "when": "When:",
+    "upTo30": "Up to 30 min.",
+    "scheduleLater": "Schedule later",
+    "date": "Date",
+    "time": "Time",
+    "save": "Save",
+    "deliveryAddress": "Deliver to address:",
+    "deliveryPlaceholder": "Enter delivery address",
+    "dateOptions": ["Today", "Tomorrow", "This Week"],
+    "timeOptions": ["09:00 AM", "10:00 AM", "12:00 AM"],
+    "addCart":"Add to cart"
+  },
+   "cacao": {
+      "title": "Cacao",
+      "subtitle": "The best quality cocoa beans from around the world",
+      "description": "Here you can add text about your company and services. Use this opportunity to introduce yourself and your company to your clients. Tell an interesting story, e.g., how you came up with the idea of your own business, and explain your advantage over competitors."
+    }
+}
