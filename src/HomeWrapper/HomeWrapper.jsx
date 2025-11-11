@@ -10,7 +10,10 @@ function HomeWrapper() {
      const isOpen = useSelector(burgerSelector);
     return(
         <div className="home_wrapper">
+            <div className="container">
+
                <NavBar/>
+            </div>
                <Outlet/>
                { isOpen && <BurgerMenu/>}
                <Footer/>

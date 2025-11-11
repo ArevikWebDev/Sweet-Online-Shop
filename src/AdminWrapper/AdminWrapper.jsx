@@ -5,7 +5,6 @@ import { Outlet } from "react-router-dom"
 function AdminWrapper() {
   return (
     <div className="min-h-screen flex flex-col">
-      <div className="container">
         {/* Վերևի նավիգացիա */}
         <AdminNav />
 
@@ -19,7 +18,6 @@ function AdminWrapper() {
           </main>
         </div>
       </div>
-    </div>
   )
 }
 

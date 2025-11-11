@@ -10,7 +10,7 @@ function HomePage() {
   const {t} = useTranslation()
   return (
     <div className="home_page w-full overflow-hidden cursor-pointer">
-      <div className="container mx-auto">
+      <div className=" mx-auto">
         {/* Header */}
         <HeaderComponent />
 
