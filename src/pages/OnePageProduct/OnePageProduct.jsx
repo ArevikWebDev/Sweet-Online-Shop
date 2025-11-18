@@ -51,6 +51,11 @@ function OnePageProduct() {
 
         dispatch(setCartOpen(true))
     }
+
+
+    useEffect(() => {
+        window.scrollTo({top: 0})
+    },[])
     const name = currentProduct[`name_${i18n.language}`] || currentProduct.name;
     const description =
         currentProduct[`description_${i18n.language}`] || currentProduct.description;
